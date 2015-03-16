@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[expect(${1:expected}).to.have.been.called${2:};]]></content>
+    <tabTrigger>excalled</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

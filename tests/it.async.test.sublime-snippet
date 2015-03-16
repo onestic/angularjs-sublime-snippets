@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[it('${1:should}', function (done) {
+    ${2:}
+});
+]]></content>
+    <tabTrigger>ait</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

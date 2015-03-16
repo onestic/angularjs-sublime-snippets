@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[\$rootScope.\$apply();
+${1:}
+]]></content>
+    <tabTrigger>rootApply</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

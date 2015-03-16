@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[expect(${1:expected}).to.${2:};]]></content>
+    <tabTrigger>expect</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

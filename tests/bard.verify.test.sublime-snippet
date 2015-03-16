@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[bard.verifyNoOutstandingHttpRequests();
+${1:}
+]]></content>
+    <tabTrigger>bverify</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

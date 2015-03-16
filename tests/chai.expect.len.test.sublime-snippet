@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[expect(${1:expected}).to.have.length(${2:length});]]></content>
+    <tabTrigger>exlen</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[.then(done, done);
+${1:}
+]]></content>
+    <tabTrigger>donedone</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

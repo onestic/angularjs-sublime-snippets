@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[bard.asyncModule('${1:app}'${2:});
+]]></content>
+    <tabTrigger>basyncmodule</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
