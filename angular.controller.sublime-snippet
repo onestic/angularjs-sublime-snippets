@@ -8,8 +8,8 @@
 
     /* @ngInject */
     function ${2:Controller}(${3:dependencies}) {
-        var vm = this;
-        vm.title = '${2:Controller}';
+        var self. = this;
+        self.title = '${2:Controller}';
 
         activate();
 

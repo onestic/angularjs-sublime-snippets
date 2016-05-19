@@ -13,9 +13,9 @@
         // Creates:
         //
         var directive = {
-            bindToController: true,
+            bindToController: {},
             controller: ${4:Controller},
-            controllerAs: '${5:vm}',
+            controllerAs: '${5:self}',
             link: link,
             restrict: 'A',
             scope: {
